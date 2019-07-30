@@ -1,0 +1,23 @@
+body {
+  background-color: #007065;
+  color: #00a79d;
+}
+hr {
+border-style: none;
+border-top-style: dashed;
+border-color: white;
+border-width: 5px;
+width: 25%;
+}
+
+
+  img {
+    height: 400px;
+    width: 500px;
+  }
+  h1 {
+  color: #f5c181;
+  }
+  h3 {
+    color: #ffeecf
+  }
